@@ -18,6 +18,6 @@ public class Prime
                 System.out.print(number + " ");
             }
         }
-        
+        System.out.println("hi");
     }
 }
